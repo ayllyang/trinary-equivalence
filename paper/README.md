@@ -4,8 +4,8 @@
 
 | 文件 | 格式 | 说明 |
 | :--- | :--- | :--- |
-| `paper_zh.md` | Markdown | 中文论文全文，适合在线阅读 |
-| `paper_en.md` | Markdown | 英文论文全文（如有） |
+| `paper_zh.md` | Markdown | 中文论文全文 |
+| `paper_en.md` | Markdown | 英文论文全文 |
 
 ## 版本历史
 
